@@ -381,6 +381,6 @@ X-Verify-Token: <token>
 
 **Notes**
 
-- Project codename is pending. (We can set it in Settings.)
+- Project codename: **FutureEngineer**
 - This README is the living spec for v0.1; we’ll evolve it as we implement.
 
